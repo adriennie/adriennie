@@ -16,6 +16,8 @@ Hi, I am Adriennie!<br>A learner who is learning something everything!<br>How to
 ![](https://github-contributor-stats.vercel.app/api?username=Adriennie&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Adriennie&icon=9&color=8)](https://visitcount.itsvg.in)
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Adriennie&label=Profile%20Views&color=6&icon=0&pretty=true" />
+</a>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
