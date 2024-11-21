@@ -74,8 +74,8 @@
 </a>  
 <br/>  
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=adriennie&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriennie&hide_border=true&layout=compact" align="left" style="width: 100%" />   
+<img src="https://github-readme-stats.vercel.app/api?username=adriennie&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 40%" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriennie&hide_border=true&layout=compact" align="left" style="width: 40%" />   
 <br/>  
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=adriennie&&style=flat-square" align="center" />
