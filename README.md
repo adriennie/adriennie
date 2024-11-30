@@ -66,14 +66,13 @@
 <a href="https://instagram.com/https://www.instagram.com/adrie_estel/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-<br/>  
-## Github Stats  
+<br/> 
+
+## <h3 align="left">Github Stats </h3> 
 <img src="https://github-readme-stats.vercel.app/api?username=adriennie&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 40%" />  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriennie&hide_border=true&layout=compact" align="left" style="width: 40%" />   
 <br/>  
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=adriennie&&style=flat-square" align="center" />
 </div>  
-<br/>  
-
-<br />
+<br/>
