@@ -5,7 +5,7 @@
 ### <div align="center"> I'm Adrika, a Artificial Intelligence and Machine Learning Programmer </div>  
   
 -  👨‍💻 currently studing🚀
--  
+
 - 🔭 I’m currently Studing  Deep Learning Algorithms and their application on real-world  
 
 - 🌱 I’m currently learning OpenGL, Deep Learning  
@@ -14,7 +14,8 @@
   
 
 <br/>  
-# My Skill Set  
+
+# <h3 align="left">My Skill Set</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <table align="center">
