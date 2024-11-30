@@ -2,7 +2,7 @@
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Machine Learning:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=tensorflow,keras,sklearn"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=tensorflow,sklearn"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
