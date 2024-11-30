@@ -6,11 +6,11 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=java,python,nodejs,flask,express"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=python,nodejs,flask,express"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js,figma,photoshop"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js,figma,photoshop,wordpress"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
@@ -18,7 +18,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Programming Language:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=python,java,c,cpp"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=python,java,c,cpp,java"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
@@ -30,7 +30,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows,"/></td>
     </tr>
 </table>
 ------
