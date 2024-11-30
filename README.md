@@ -2,9 +2,9 @@
 <img src="https://i.pinimg.com/originals/3e/60/f6/3e60f675f35799e95fb595ed43a06f16.gif" align="center" height="100" width="300" />
 </div>  
   
-### <div align="center">I'm Adrika, a Artificial Intelligence and Machine Learning Programmer 👨‍💻 currently studing🚀</div>  
+### <div align="center">I'm Adrika, a Artificial Intelligence and Machine Learning Programmer</div>  
   
-
+-  👨‍💻 currently studing🚀
 - 🔭 I’m currently Studing  Deep Learning Algorithms and their application on real-world  
   
 
