@@ -1,45 +1,8 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-
-### Hello 🌎, I'm Adrien
-
-I’m Adrien, a Machine Learning Programmer and a university student. I'm passionate about using AI to build cool tech solutions. I can work on both the front-end and back-end of projects. I love writing clean code and creating user-friendly experiences. Let's build something amazing together! 🚀
-
-
-  - 🔭 I’m currently working on upgrading java applications from jdk 8 to 21.
-  - 🌱 I’m currently learning; JAVA, SpringBoot, Deep Learning.
-  - 💬 Ask me about anything related to **Machine Learning and related works.**
-  - ⚡ I’m currently Studing Deep Learning Algorithms and their application on real-world
-
-<a href="https://linkedin.com/in/adrika-pradhan-3a92622ba" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="Adrika_Pradhan" height="40" width="60" ></i>
-</a>
-</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RResabala2015&label=Profile%20views&color=0e75b6&style=flat" alt="RResabala2015" /> </p>
-
-
-------
-<h3 align="left">Activity:</h3>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RResabala2015&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align="center">
-  <a href="https://github.com/RResabala2015">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=RResabala2015&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RResabala2015&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
-  </a>
-</div>
-<p align="center">
-  <a href="https://github.com/RResabala2015">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RResabala2015&&theme=tokyonight" alt="RResabala2015" />
-  </a>
-</p>
-
-------
 <h3 align="left">Languages and Tools:</h3>
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=php,java,cs,net,python,laravel,spring,maven,hibernate,nodejs,fastapi,flask,express,nginx,vite"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=java,python,nodejs,flask,express"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
@@ -74,7 +37,4 @@ I’m Adrien, a Machine Learning Programmer and a university student. I'm passio
         <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian,alpine"/></td>
     </tr>
 </table>
-
 ------
-[RResabala2015](https://github.com/RResabala2015)
-26/07/2024
