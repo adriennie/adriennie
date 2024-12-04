@@ -4,7 +4,6 @@
   
 ### <div align="center"> I'm Adrika, a Artificial Intelligence and Machine Learning Programmer </div>  
   
--  👨‍💻 currently studing🚀
 
 - 🔭 I’m currently Studing  Deep Learning Algorithms and their application on real-world  
 
