@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently Studing  Deep Learning Algorithms and their application on real-world  
 
-- 🌱 I’m currently learning OpenGL, Deep Learning  
+- 🌱 I’m currently learning about Natural Language Processing, Image Processing.
   
 - ❓ Ask me about anything related to Machine Learning and related works  
   
