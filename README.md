@@ -1,77 +1,130 @@
-<div align="center">
-<img src="https://i.pinimg.com/originals/3e/60/f6/3e60f675f35799e95fb595ed43a06f16.gif" align="center" height="100" width="300" />
-</div>  
-  
-### <div align="center"> I'm Adrika, a Artificial Intelligence and Machine Learning Programmer </div>  
-  
+# Hi there 👋 I'm Adrien
 
-- 🔭 I’m currently Studing  Deep Learning Algorithms and their application on real-world  
+**AI/ML Engineer & Solutions Architect** | B.Tech CS (AI/ML Specialization) | Final Year @ UPES Dehradun
 
-- 🌱 I’m currently learning about Natural Language Processing, Image Processing.
-  
-- ❓ Ask me about anything related to Machine Learning and related works  
-  
+---
 
-<br/>  
+## 🎯 About Me
 
-# <h3 align="left">My Skill Set</h3>
+```
+Passionate about designing intelligent systems that solve real-world problems. 
+Final-year CS student with deep expertise in machine learning, cloud infrastructure, 
+and AI solutions architecture. Targeting the DACH region for my career.
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<table align="center">
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Machine Learning:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Programming Language:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=python,java,c,cpp,java"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=python,nodejs,flask,express"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js,figma,photoshop,wordpress"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=github"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,sublime,eclipse,pycharm,"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,"/></td>
-    </tr>
-</table>
+- 🧠 **Specialization**: Machine Learning & AI Systems Architecture
+- ☁️ **Focus**: Google Cloud GenAI, LLM orchestration, production ML pipelines
+- 🔍 **Currently Building**: Multi-agent systems, RAG architectures, LLM benchmarking tools
+- 📍 **Location**: Dehradun, India | 🎯 **Target**: DACH Region (Germany/Austria/Switzerland)
+- 🎓 **Expected Graduation**: June 2026
 
-# <h3 align="left">Connect with me  </h3>
-<a href="https://github.com/https://github.com/adriennie" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/adrika-pradhan-3a92622ba/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/https://www.kaggle.com/adrikapradhan" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/https://www.instagram.com/adrie_estel/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-<br/> 
+---
 
-## <h3 align="left">Github Stats </h3> 
-<img src="https://github-readme-stats.vercel.app/api?username=adriennie&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 40%" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriennie&hide_border=true&layout=compact" align="left" style="width: 40%" />   
-<br/>  
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=adriennie&&style=flat-square" align="center" />
-</div>  
-<br/>
+## 💼 Professional Experience
+
+### Google Cloud GenAI Internship
+- Built and optimized GenAI solutions on Google Cloud Platform
+- Hands-on experience with Vertex AI, LLM APIs, and production deployments
+
+### Research & Development
+- **Astronomical Object Detection**: Improved IoU from 0.51 → 0.69 through advanced CV techniques
+- Expertise in model optimization, evaluation metrics, and performance engineering
+
+---
+
+## 🚀 Featured Projects
+
+### **PolyMind** — Multi-Agent LLM Orchestration
+- Distributed system for orchestrating multiple LLM agents
+- Focus: prompt engineering, agent coordination, output validation
+- Tech: Python, LangChain, FastAPI
+
+### **Swasthya** — Intelligent Pharmacy Supply Chain Platform
+- End-to-end ML-powered inventory optimization & demand forecasting
+- Features: real-time analytics dashboard, predictive restocking
+- Impact: Designed for scaling across pharmacy networks
+
+### **RAG Pipeline with Evaluation Harness**
+- Production-ready Retrieval-Augmented Generation system
+- Comprehensive evaluation framework for RAG quality metrics
+- Focus: hallucination detection, relevance scoring, retrieval optimization
+
+### **LLM Benchmarking Dashboard**
+- Interactive tool for evaluating and comparing LLM performance
+- Metrics: latency, accuracy, cost-per-query, safety alignment
+- Use case: Model selection and vendor evaluation
+
+### Other Notable Work
+- **EcoShare**: Sustainable resource-sharing platform
+- **AI CodeGuard**: Code quality and security analysis using ML
+
+---
+
+## 🛠️ Technical Stack
+
+**Languages**: Python, TypeScript, Go, SQL, Bash  
+**AI/ML**: PyTorch, TensorFlow, Scikit-learn, Hugging Face, LangChain  
+**Cloud & DevOps**: Google Cloud (Vertex AI, BigQuery, Cloud Run), Docker, Kubernetes basics  
+**Databases**: PostgreSQL, MongoDB, Vector DBs (Pinecone, Milvus)  
+**Tools**: Git, Jupyter, Cursor, VS Code, Linux  
+
+---
+
+## 📊 What I'm Focused On
+
+```
+30% → Production ML Systems (from notebooks to APIs)
+25% → LLM Applications & RAG Architecture
+20% → Solutions Architecture & System Design
+15% → Cloud Infrastructure & DevOps
+10% → Open Source & Community
+```
+
+---
+
+## 🎓 Education
+
+**B.Tech Computer Science** (AI & ML Specialization)  
+Uttarakhand University of Petroleum and Energy Studies (UPES)  
+CGPA: 7.73 | S7 SGPA: 9.18  
+*Expected: June 2026*
+
+---
+
+## 🔗 Connect With Me
+
+- **LinkedIn**: [linkedin.com/in/adrikapradhan](https://linkedin.com/in/adrikapradhan)
+- **Email**: [your.email@example.com]
+- **Twitter/X**: [@YourHandle]
+
+---
+
+## 📈 My GitHub Journey
+
+- 🔬 Building ML models and deploying them to production
+- 🤝 Contributing to open-source AI/ML projects
+- 📚 Learning in public: sharing insights on solutions architecture, LLMs, and system design
+- 🏆 Active on Zindi & ML competition platforms
+
+---
+
+## 🎯 Next Chapter
+
+Seeking **MSc in Computer Science / Data Science / AI Engineering** programs in DACH region with focus on:
+- Advanced ML systems & distributed computing
+- Enterprise AI solution architecture  
+- Cloud-native applications
+
+Post-graduation: Building enterprise AI solutions as a **Solutions Architect**.
+
+---
+
+## 💡 Philosophy
+
+> *"Good architecture is invisible. Great ML systems feel inevitable."*
+
+I believe in building systems that are not just accurate, but scalable, maintainable, and aligned with real-world constraints.
+
+---
+
+**Let's build something intelligent together! 🚀**
