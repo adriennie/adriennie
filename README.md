@@ -50,22 +50,6 @@ Building systems where math meets production — from denoising astronomical ima
 
 ---
 
-## 🏆 Achievements
-
-- **TCS CodeVita 2025** — Round 2 (Rank 2083 / 6138)
-- **Code4Bharat Hackathon** — National Semifinalist
-- **Care-a-Thon** (Sukhyam) — Finalist · ₹50,000 innovation grant
-- **IELTS** — 6.5 overall (Writing & Speaking: 7.0)
-
----
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/adriennie/adriennie/main/github-metrics.svg" alt="Adrika's GitHub Stats" width="100%" />
-</p>
-
----
-
 ## 🔗 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adrikapradhan)
