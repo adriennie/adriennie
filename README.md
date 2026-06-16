@@ -61,12 +61,7 @@ Building systems where math meets production — from denoising astronomical ima
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/adriennie">
-    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=adriennie&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/adriennie">
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=adriennie&theme=tokyonight" alt="GitHub Streak" />
-  </a>
+  <img src="https://raw.githubusercontent.com/adriennie/adriennie/main/github-metrics.svg" alt="Adrika's GitHub Stats" width="100%" />
 </p>
 
 ---
