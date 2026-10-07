@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Adrika Pradhan: MSc AI, USI Lugano" width="100%"/>
+<img src="banner.svg" alt="Adrika Pradhan: MSc AI, USI Lugano" width="100%"/>
 
 <a href="https://github.com/adriennie">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=E07B39&center=true&vCenter=true&width=640&height=40&lines=Training+models+%F0%9F%8D%82;Evaluating+them+honestly+%F0%9F%8D%81;Shipping+the+systems+around+them+%F0%9F%8C%B0;Open+to+AI+%2B+X+roles+in+Switzerland+%F0%9F%87%A8%F0%9F%87%AD" alt="typing animation"/>
@@ -12,7 +12,7 @@
 <a href="mailto:adrika.pradhan@usi.ch"><img src="https://img.shields.io/badge/Email-D2691E?style=for-the-badge&logo=gmail&logoColor=F5E6D3&labelColor=3E2723" alt="Email"/></a>
 <img src="https://komarev.com/ghpvc/?username=adriennie&label=Visitors&color=CC7722&style=for-the-badge&labelColor=3E2723" alt="visitors"/>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 </div>
 
@@ -20,16 +20,14 @@
 
 I'm an AI engineer in the making, currently in **Lugano**, between the Alps and a lake, doing an MSc in AI. I like the part of ML where the maths meets production: evaluation harnesses, retrieval pipelines, geospatial backends, and anything that has to keep working after the demo ends.
 
-```python
-class Adrika:
-    base       = "Lugano, Switzerland 🇨🇭"
-    studying   = "MSc Artificial Intelligence @ USI"
-    obsessed_with = ["evals", "RAG", "numerical methods", "clean system design"]
-    season     = "autumn ☕🍁 (coffee required)"
-    open_to    = "internships · industry theses · research collabs"
-```
+> *I like the gap between "it works in my notebook" and "it works on a Monday morning."*
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
+📍 **Based in** Lugano, Switzerland 🇨🇭  
+🎓 **Studying** MSc Artificial Intelligence @ USI  
+🔎 **Into** evals, RAG, numerical methods, system design  
+🤝 **Open to** internships, industry theses, research collabs
+
+<div align="center"><img src="divider.svg" width="100%" alt=""/></div>
 
 ## 🍁 &nbsp;This semester
 
@@ -42,58 +40,13 @@ class Adrika:
 </tr>
 </table>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
+<div align="center"><img src="divider.svg" width="100%" alt=""/></div>
 
 ## 🌰 &nbsp;Things I've built
 
 <table>
 <tr>
 <td width="50%" valign="top">
-
-### 🏥 [Swasthya](https://github.com/adriennie/swasth-app)
-*A multi-role pharmacy network with a forecasting brain.*
-
-`LightGBM` · `Isolation Forest` · `Gemini` · `Supabase RLS` · `Cloud Run` · `React Native`
-
-Demand forecasting, an anomaly-detection microservice, and natural-language Q&A over inventory.
-
-</td>
-<td width="50%" valign="top">
-
-### 🌍 [EcoShare](https://github.com/adriennie)
-*A community credit platform where location matters.*
-
-`PostGIS` · `PostgreSQL` · `Row-Level Security` · `TypeScript`
-
-Proximity ranking, spatial clustering, atomic credit transfers with escrow, and NGO auto-matching.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 [RAG Pipeline + Eval Harness](https://github.com/adriennie)
-*Retrieval with the measuring tape built in.*
-
-`RAGAS` · `LangChain` · `Vertex AI` · `Pinecone`
-
-Faithfulness and context-relevance scoring, hallucination detection, reproducible eval runs.
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ [LLM Benchmarking Dashboard](https://github.com/adriennie)
-*Which model is actually worth the money?*
-
-`Python` · `LLM APIs` · `Evaluation metrics`
-
-Latency, accuracy, cost-per-query and safety alignment, compared across providers.
-
-</td>
-</tr>
-</table>
-
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
 
 ## 🔭 &nbsp;Research: cleaning up the night sky
 
@@ -107,7 +60,7 @@ Convolutional autoencoder denoising plus YOLO-inspired detection of faint object
 
 </div>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
+<div align="center"><img src="divider.svg" width="100%" alt=""/></div>
 
 ## 🧺 &nbsp;Toolbox
 
@@ -116,7 +69,7 @@ Convolutional autoencoder denoising plus YOLO-inspired detection of faint object
 **Languages**<br/>
 <img src="https://img.shields.io/badge/Python-B7410E?style=for-the-badge&labelColor=3E2723&logo=python&logoColor=F5E6D3" alt="Python"/>
 <img src="https://img.shields.io/badge/C%2B%2B-D2691E?style=for-the-badge&labelColor=3E2723&logo=cplusplus&logoColor=F5E6D3" alt="C%2B%2B"/>
-<img src="https://img.shields.io/badge/Java-C9572B?style=for-the-badge&labelColor=3E2723&logo=openjdk&logoColor=F5E6D3" alt="Java"/>
+<img src="https://img.shields.io/badge/Java-C9572B?style=for-the-badge&labelColor=3E2723&logo=openjdk&logoColor=F5E6D3" alt="Javascript"/>
 <img src="https://img.shields.io/badge/TypeScript-E07B39?style=for-the-badge&labelColor=3E2723&logo=typescript&logoColor=F5E6D3" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/SQL-A8431F?style=for-the-badge&labelColor=3E2723&logo=postgresql&logoColor=F5E6D3" alt="SQL"/>
 <img src="https://img.shields.io/badge/Bash-CC7722?style=for-the-badge&labelColor=3E2723&logo=gnubash&logoColor=F5E6D3" alt="Bash"/>
@@ -132,6 +85,7 @@ Convolutional autoencoder denoising plus YOLO-inspired detection of faint object
 <img src="https://img.shields.io/badge/SciPy-A8431F?style=for-the-badge&labelColor=3E2723&logo=scipy&logoColor=F5E6D3" alt="SciPy"/>
 <img src="https://img.shields.io/badge/LightGBM-CC7722?style=for-the-badge&labelColor=3E2723" alt="LightGBM"/>
 <img src="https://img.shields.io/badge/Hugging_Face-B7410E?style=for-the-badge&labelColor=3E2723&logo=huggingface&logoColor=F5E6D3" alt="Hugging_Face"/>
+
 
 <br/><br/>
 
@@ -160,7 +114,7 @@ Convolutional autoencoder denoising plus YOLO-inspired detection of faint object
 
 </div>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
+<div align="center"><img src="divider.svg" width="100%" alt=""/></div>
 
 ## 🍵 &nbsp;How I work
 
@@ -171,7 +125,7 @@ Convolutional autoencoder denoising plus YOLO-inspired detection of faint object
 4. Write down what failed       →  negative results belong in the README too
 ```
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
+<div align="center"><img src="divider.svg" width="100%" alt=""/></div>
 
 ## 📈 &nbsp;Activity
 
@@ -190,4 +144,4 @@ Convolutional autoencoder denoising plus YOLO-inspired detection of faint object
 
 Working on something where the model is only half the problem? I'm looking for **AI + X** internships, industry-collaborative theses and research projects in 🇨🇭 / DACH. Reach me on [LinkedIn](https://linkedin.com/in/adrikapradhan) or at **adrika.pradhan@usi.ch**.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B7410E&height=110&section=footer&reversal=true&fontColor=FFF4E0&fontSize=22&text=until%20the%20leaves%20fall%20again%20%F0%9F%8D%81&fontAlignY=70" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B7410E&height=110&section=footer&reversal=true&fontColor=FFF4E0&fontSize=22&text=connect%20with%20me%F0%9F%8D%81&fontAlignY=70" width="100%" alt=""/>
