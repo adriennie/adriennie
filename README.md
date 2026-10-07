@@ -1,108 +1,193 @@
 <div align="center">
 
-# Hi 👋 I'm Adrika Pradhan
+<img src="./assets/banner.svg" alt="Adrika Pradhan: MSc AI, USI Lugano" width="100%"/>
 
-### AI/ML Engineer & Solutions Architect · MSc AI Student @ USI Lugano
+<a href="https://github.com/adriennie">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=E07B39&center=true&vCenter=true&width=640&height=40&lines=Training+models+%F0%9F%8D%82;Evaluating+them+honestly+%F0%9F%8D%81;Shipping+the+systems+around+them+%F0%9F%8C%B0;Open+to+AI+%2B+X+roles+in+Switzerland+%F0%9F%87%A8%F0%9F%87%AD" alt="typing animation"/>
+</a>
+
+<br/>
+
+<a href="https://linkedin.com/in/adrikapradhan"><img src="https://img.shields.io/badge/LinkedIn-B7410E?style=for-the-badge&logo=linkedin&logoColor=F5E6D3&labelColor=3E2723" alt="LinkedIn"/></a>
+<a href="mailto:adrika.pradhan@usi.ch"><img src="https://img.shields.io/badge/Email-D2691E?style=for-the-badge&logo=gmail&logoColor=F5E6D3&labelColor=3E2723" alt="Email"/></a>
+<img src="https://komarev.com/ghpvc/?username=adriennie&label=Visitors&color=CC7722&style=for-the-badge&labelColor=3E2723" alt="visitors"/>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 </div>
 
----
+## 🍂 &nbsp;Hello, world
 
-## 🌐 Connect with Me
+I'm an AI engineer in the making, currently in **Lugano**, between the Alps and a lake, doing an MSc in AI. I like the part of ML where the maths meets production: evaluation harnesses, retrieval pipelines, geospatial backends, and anything that has to keep working after the demo ends.
+
+```python
+class Adrika:
+    base       = "Lugano, Switzerland 🇨🇭"
+    studying   = "MSc Artificial Intelligence @ USI"
+    obsessed_with = ["evals", "RAG", "numerical methods", "clean system design"]
+    season     = "autumn ☕🍁 (coffee required)"
+    open_to    = "internships · industry theses · research collabs"
+```
+
+<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
+
+## 🍁 &nbsp;This semester
+
+<table>
+<tr>
+<td align="center" width="25%">🧠<br/><b>Engineering AI Systems</b><br/><sub>designing ML that survives production</sub></td>
+<td align="center" width="25%">🎨<br/><b>UX Design</b><br/><sub>AI is only useful if people can use it</sub></td>
+<td align="center" width="25%">📐<br/><b>Numerical Algorithms</b><br/><sub>iterative solvers, convergence, conditioning</sub></td>
+<td align="center" width="25%">🇩🇪<br/><b>German</b><br/><sub>A1 → B1, one conjugation at a time</sub></td>
+</tr>
+</table>
+
+<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
+
+## 🌰 &nbsp;Things I've built
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 [Swasthya](https://github.com/adriennie/swasth-app)
+*A multi-role pharmacy network with a forecasting brain.*
+
+`LightGBM` · `Isolation Forest` · `Gemini` · `Supabase RLS` · `Cloud Run` · `React Native`
+
+Demand forecasting, an anomaly-detection microservice, and natural-language Q&A over inventory.
+
+</td>
+<td width="50%" valign="top">
+
+### 🌍 [EcoShare](https://github.com/adriennie)
+*A community credit platform where location matters.*
+
+`PostGIS` · `PostgreSQL` · `Row-Level Security` · `TypeScript`
+
+Proximity ranking, spatial clustering, atomic credit transfers with escrow, and NGO auto-matching.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 [RAG Pipeline + Eval Harness](https://github.com/adriennie)
+*Retrieval with the measuring tape built in.*
+
+`RAGAS` · `LangChain` · `Vertex AI` · `Pinecone`
+
+Faithfulness and context-relevance scoring, hallucination detection, reproducible eval runs.
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ [LLM Benchmarking Dashboard](https://github.com/adriennie)
+*Which model is actually worth the money?*
+
+`Python` · `LLM APIs` · `Evaluation metrics`
+
+Latency, accuracy, cost-per-query and safety alignment, compared across providers.
+
+</td>
+</tr>
+</table>
+
+<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
+
+## 🔭 &nbsp;Research: cleaning up the night sky
+
+Convolutional autoencoder denoising plus YOLO-inspired detection of faint objects in astronomical images (**DeepSpaceYOLO** dataset).
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adrikapradhan)
-[![GitHub](https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adriennie)
-[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrika.pradhan@usi.ch)
+<img src="https://img.shields.io/badge/PSNR-27.52_dB-B7410E?style=for-the-badge&labelColor=3E2723" alt="PSNR"/>
+<img src="https://img.shields.io/badge/SSIM-0.88-D2691E?style=for-the-badge&labelColor=3E2723" alt="SSIM"/>
+<img src="https://img.shields.io/badge/IoU-0.51_→_0.69-E07B39?style=for-the-badge&labelColor=3E2723" alt="IoU"/>
 
 </div>
 
----
+<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
 
-## 💻 Tech Stack
+## 🧺 &nbsp;Toolbox
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-008080?style=for-the-badge&logo=lightgbm&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+**Languages**<br/>
+<img src="https://img.shields.io/badge/Python-B7410E?style=for-the-badge&labelColor=3E2723&logo=python&logoColor=F5E6D3" alt="Python"/>
+<img src="https://img.shields.io/badge/C%2B%2B-D2691E?style=for-the-badge&labelColor=3E2723&logo=cplusplus&logoColor=F5E6D3" alt="C%2B%2B"/>
+<img src="https://img.shields.io/badge/Java-C9572B?style=for-the-badge&labelColor=3E2723&logo=openjdk&logoColor=F5E6D3" alt="Java"/>
+<img src="https://img.shields.io/badge/TypeScript-E07B39?style=for-the-badge&labelColor=3E2723&logo=typescript&logoColor=F5E6D3" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/SQL-A8431F?style=for-the-badge&labelColor=3E2723&logo=postgresql&logoColor=F5E6D3" alt="SQL"/>
+<img src="https://img.shields.io/badge/Bash-CC7722?style=for-the-badge&labelColor=3E2723&logo=gnubash&logoColor=F5E6D3" alt="Bash"/>
+<img src="https://img.shields.io/badge/LaTeX-B7410E?style=for-the-badge&labelColor=3E2723&logo=latex&logoColor=F5E6D3" alt="LaTeX"/>
+
+<br/><br/>
+
+**ML & Numerics**<br/>
+<img src="https://img.shields.io/badge/PyTorch-B7410E?style=for-the-badge&labelColor=3E2723&logo=pytorch&logoColor=F5E6D3" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/TensorFlow-D2691E?style=for-the-badge&labelColor=3E2723&logo=tensorflow&logoColor=F5E6D3" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/scikit--learn-C9572B?style=for-the-badge&labelColor=3E2723&logo=scikitlearn&logoColor=F5E6D3" alt="scikit--learn"/>
+<img src="https://img.shields.io/badge/NumPy-E07B39?style=for-the-badge&labelColor=3E2723&logo=numpy&logoColor=F5E6D3" alt="NumPy"/>
+<img src="https://img.shields.io/badge/SciPy-A8431F?style=for-the-badge&labelColor=3E2723&logo=scipy&logoColor=F5E6D3" alt="SciPy"/>
+<img src="https://img.shields.io/badge/LightGBM-CC7722?style=for-the-badge&labelColor=3E2723" alt="LightGBM"/>
+<img src="https://img.shields.io/badge/Hugging_Face-B7410E?style=for-the-badge&labelColor=3E2723&logo=huggingface&logoColor=F5E6D3" alt="Hugging_Face"/>
+
+<br/><br/>
+
+**LLM & GenAI**<br/>
+<img src="https://img.shields.io/badge/LangChain-B7410E?style=for-the-badge&labelColor=3E2723&logo=langchain&logoColor=F5E6D3" alt="LangChain"/>
+<img src="https://img.shields.io/badge/Vertex_AI-D2691E?style=for-the-badge&labelColor=3E2723&logo=googlecloud&logoColor=F5E6D3" alt="Vertex_AI"/>
+<img src="https://img.shields.io/badge/Gemini-C9572B?style=for-the-badge&labelColor=3E2723&logo=googlegemini&logoColor=F5E6D3" alt="Gemini"/>
+<img src="https://img.shields.io/badge/Pinecone-E07B39?style=for-the-badge&labelColor=3E2723&logo=pinecone&logoColor=F5E6D3" alt="Pinecone"/>
+<img src="https://img.shields.io/badge/RAGAS-A8431F?style=for-the-badge&labelColor=3E2723" alt="RAGAS"/>
+
+<br/><br/>
+
+**Data, Infra & Dev Tools**<br/>
+<img src="https://img.shields.io/badge/PostgreSQL-B7410E?style=for-the-badge&labelColor=3E2723&logo=postgresql&logoColor=F5E6D3" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/PostGIS-D2691E?style=for-the-badge&labelColor=3E2723&logo=postgresql&logoColor=F5E6D3" alt="PostGIS"/>
+<img src="https://img.shields.io/badge/Supabase-C9572B?style=for-the-badge&labelColor=3E2723&logo=supabase&logoColor=F5E6D3" alt="Supabase"/>
+<img src="https://img.shields.io/badge/MongoDB-E07B39?style=for-the-badge&labelColor=3E2723&logo=mongodb&logoColor=F5E6D3" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Docker-A8431F?style=for-the-badge&labelColor=3E2723&logo=docker&logoColor=F5E6D3" alt="Docker"/>
+<img src="https://img.shields.io/badge/Google_Cloud-CC7722?style=for-the-badge&labelColor=3E2723&logo=googlecloud&logoColor=F5E6D3" alt="Google_Cloud"/>
+<img src="https://img.shields.io/badge/Azure_AI-B7410E?style=for-the-badge&labelColor=3E2723&logo=microsoftazure&logoColor=F5E6D3" alt="Azure_AI"/>
+<img src="https://img.shields.io/badge/Git-D2691E?style=for-the-badge&labelColor=3E2723&logo=git&logoColor=F5E6D3" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-C9572B?style=for-the-badge&labelColor=3E2723&logo=githubactions&logoColor=F5E6D3" alt="GitHub_Actions"/>
+<img src="https://img.shields.io/badge/VS_Code-E07B39?style=for-the-badge&labelColor=3E2723&logo=visualstudiocode&logoColor=F5E6D3" alt="VS_Code"/>
+<img src="https://img.shields.io/badge/Jupyter-A8431F?style=for-the-badge&labelColor=3E2723&logo=jupyter&logoColor=F5E6D3" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/Weights_%26_Biases-CC7722?style=for-the-badge&labelColor=3E2723&logo=weightsandbiases&logoColor=F5E6D3" alt="Weights_%26_Biases"/>
 
 </div>
 
----
+<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
 
-## 🎯 About Me
+## 🍵 &nbsp;How I work
 
-Building systems where math meets production — from denoising astronomical images to multi-role pharmacy networks with transactional integrity at scale.
+```text
+1. Reproduce before improving   →  if I can't match the baseline, I don't trust my idea
+2. Evaluate before shipping     →  a model without a metric is an opinion
+3. Treat data as the system     →  leakage and bad splits break more than bad architectures
+4. Write down what failed       →  negative results belong in the README too
+```
 
-- 🧠 **Specialization**: ML Pipelines, RAG Architecture, Distributed Systems
-- ☁️ **Focus**: Google Cloud GenAI, Vertex AI, LLM Orchestration
-- 🔬 **Research**: Convolutional Autoencoders + YOLO for astronomical object detection
-- 📍 **Location**: DACH Region (MSc Student — USI Lugano)
+<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
 
----
-
-## 💼 Experience
-
-**Generative AI Engineering Intern** — *Google Cloud Track, NASSCOM FutureSkills (Jun–Jul '25)*
-- Built & evaluated RAG pipeline prototypes using Gemini + Vertex AI.
-- Designed structured evaluation frameworks for faithfulness & multimodal document quality.
-
----
-
-## 🚀 Projects
-
-- 🏥 **[Swasthya](https://github.com/adriennie/swasth-app)** — Multi-Role Pharmacy Network featuring LightGBM demand forecasting, Isolation Forest anomaly microservices, Row-Level Security, and Google Cloud Run deployment.
-- 🌍 **[EcoShare](https://github.com/adriennie)** — Community Credit Platform built with PostGIS geospatial analytics, proximity ranking, spatial clustering, and atomic credit-transfer logic.
-- 📊 **[RAG Pipeline & Evaluation Harness](https://github.com/adriennie)** — Production-ready RAG architecture utilizing RAGAS metrics for hallucination detection and context relevance scoring.
-- ⚡ **[LLM Benchmarking Dashboard](https://github.com/adriennie)** — Performance monitoring tracking latency, accuracy, cost-per-query, and safety alignment across providers.
-
----
-
-## 📊 GitHub Analytics
+## 📈 &nbsp;Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adriennie&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Adrika's GitHub Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriennie&layout=compact&theme=dark&hide_border=true&hide=html,css" alt="Top Languages" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=adriennie&show_icons=true&count_private=true&bg_color=2B1810&title_color=E9A23B&text_color=F5E6D3&icon_color=E07B39&hide_border=true&border_radius=14" alt="GitHub stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriennie&layout=compact&hide=html,css&bg_color=2B1810&title_color=E9A23B&text_color=F5E6D3&icon_color=E07B39&hide_border=true&border_radius=14" alt="Top languages" height="165"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=adriennie&background=2B1810&ring=E07B39&fire=E9A23B&currStreakLabel=E9A23B&currStreakNum=F5E6D3&sideLabels=E9A23B&sideNums=F5E6D3&dates=C9A27E&border=00000000&stroke=6B4A36" alt="GitHub streak"/>
 
 </div>
 
----
+## 🤝 &nbsp;Let's talk
 
+Working on something where the model is only half the problem? I'm looking for **AI + X** internships, industry-collaborative theses and research projects in 🇨🇭 / DACH. Reach me on [LinkedIn](https://linkedin.com/in/adrikapradhan) or at **adrika.pradhan@usi.ch**.
 
-
-## 📣 Random Dev Quote
-
-<div align="center">
-
-> *"Good architecture is invisible. Great ML systems feel inevitable."*
-
-</div>
-
----
-
-<div align="center">
-
-**Let's build something intelligent together 🚀**
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B7410E&height=110&section=footer&reversal=true&fontColor=FFF4E0&fontSize=22&text=until%20the%20leaves%20fall%20again%20%F0%9F%8D%81&fontAlignY=70" width="100%" alt=""/>
