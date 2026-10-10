@@ -10,7 +10,6 @@
 
 <a href="https://linkedin.com/in/adrikapradhan"><img src="https://img.shields.io/badge/LinkedIn-B7410E?style=for-the-badge&logo=linkedin&logoColor=F5E6D3&labelColor=3E2723" alt="LinkedIn"/></a>
 <a href="mailto:adrika.pradhan@usi.ch"><img src="https://img.shields.io/badge/Email-D2691E?style=for-the-badge&logo=gmail&logoColor=F5E6D3&labelColor=3E2723" alt="Email"/></a>
-<img src="https://komarev.com/ghpvc/?username=adriennie&label=Visitors&color=CC7722&style=for-the-badge&labelColor=3E2723" alt="visitors"/>
 
 <img src="divider.svg" width="100%" alt=""/>
 
