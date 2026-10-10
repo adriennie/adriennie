@@ -44,9 +44,6 @@ I'm an AI engineer in the making, currently in **Lugano**, between the Alps and 
 
 ## 🌰 &nbsp;Things I've built
 
-<table>
-<tr>
-<td width="50%" valign="top">
 
 ## 🔭 &nbsp;Research: cleaning up the night sky
 
