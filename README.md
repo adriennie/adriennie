@@ -1,60 +1,33 @@
 <div align="center">
 
-<img src="banner.svg" alt="Adrika Pradhan: MSc AI, USI Lugano" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B7410E&height=200&section=header&text=Adrika%20Pradhan&fontSize=52&fontColor=FFF4E0&fontAlignY=36&desc=MSc%20AI%20%C2%B7%20USI%20Lugano&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Adrika Pradhan: MSc AI, USI Lugano"/>
 
 <a href="https://github.com/adriennie">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=E07B39&center=true&vCenter=true&width=640&height=40&lines=Training+models+%F0%9F%8D%82;Evaluating+them+honestly+%F0%9F%8D%81;Shipping+the+systems+around+them+%F0%9F%8C%B0;Open+to+AI+%2B+X+roles+in+Switzerland+%F0%9F%87%A8%F0%9F%87%AD" alt="typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=E07B39&center=true&vCenter=true&width=640&height=40&lines=Training+models+%F0%9F%8D%82;Measuring+them+honestly+%F0%9F%8D%81;Building+the+systems+around+them+%F0%9F%8C%B0;Writing+down+what+didn%27t+work+%F0%9F%8D%B5" alt="typing animation"/>
 </a>
 
 <br/>
 
-<a href="https://linkedin.com/in/adrikapradhan"><img src="https://img.shields.io/badge/LinkedIn-B7410E?style=for-the-badge&logo=linkedin&logoColor=F5E6D3&labelColor=3E2723" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/adrika-pradhan-3a92622ba/"><img src="https://img.shields.io/badge/LinkedIn-B7410E?style=for-the-badge&logo=linkedin&logoColor=F5E6D3&labelColor=3E2723" alt="LinkedIn"/></a>
 <a href="mailto:adrika.pradhan@usi.ch"><img src="https://img.shields.io/badge/Email-D2691E?style=for-the-badge&logo=gmail&logoColor=F5E6D3&labelColor=3E2723" alt="Email"/></a>
-
-<img src="divider.svg" width="100%" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=adriennie&label=Profile+views&color=E07B39&style=for-the-badge&labelColor=3E2723" alt="Profile views"/>
 
 </div>
+
+<br/>
 
 ## 🍂 &nbsp;Hello, world
 
-I'm an AI engineer in the making, currently in **Lugano**, between the Alps and a lake, doing an MSc in AI. I like the part of ML where the maths meets production: evaluation harnesses, retrieval pipelines, geospatial backends, and anything that has to keep working after the demo ends.
+I'm an MSc AI student at **USI Lugano**, working on the part of ML where the maths meets production: benchmarks, evaluation harnesses, retrieval pipelines, geospatial backends, and anything that has to keep working after the demo ends.
 
-> *I like the gap between "it works in my notebook" and "it works on a Monday morning."*
+> *The gap between "it works in my notebook" and "it works on a Monday morning" is where most of the interesting problems live.*
 
-📍 **Based in** Lugano, Switzerland 🇨🇭  
-🎓 **Studying** MSc Artificial Intelligence @ USI  
-🔎 **Into** evals, RAG, numerical methods, system design  
-🤝 **Open to** internships, industry theses, research collabs
-
-<div align="center"><img src="divider.svg" width="100%" alt=""/></div>
-
-## 🍁 &nbsp;This semester
-
-<table>
-<tr>
-<td align="center" width="25%">🧠<br/><b>Engineering AI Systems</b><br/><sub>designing ML that survives production</sub></td>
-<td align="center" width="25%">🎨<br/><b>UX Design</b><br/><sub>AI is only useful if people can use it</sub></td>
-<td align="center" width="25%">📐<br/><b>Numerical Algorithms</b><br/><sub>iterative solvers, convergence, conditioning</sub></td>
-<td align="center" width="25%">🇩🇪<br/><b>German</b><br/><sub>A1 → B1, one conjugation at a time</sub></td>
-</tr>
-</table>
-
-<div align="center"><img src="divider.svg" width="100%" alt=""/></div>
-
-## 🌰 &nbsp;Things I've built
-
-
-## 🔭 &nbsp;Research: cleaning up the night sky
-
-Convolutional autoencoder denoising plus YOLO-inspired detection of faint objects in astronomical images (**DeepSpaceYOLO** dataset).
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/PSNR-27.52_dB-B7410E?style=for-the-badge&labelColor=3E2723" alt="PSNR"/>
-<img src="https://img.shields.io/badge/SSIM-0.88-D2691E?style=for-the-badge&labelColor=3E2723" alt="SSIM"/>
-<img src="https://img.shields.io/badge/IoU-0.51_→_0.69-E07B39?style=for-the-badge&labelColor=3E2723" alt="IoU"/>
-
-</div>
+|  |  |
+|---|---|
+| 📍 **Based in** | Lugano, Switzerland 🇨🇭 |
+| 🎓 **Studying** | MSc Artificial Intelligence @ USI (2026–2028) · B.Tech CS (AI & ML), UPES |
+| 🔎 **Into** | LLM inference & fine-tuning, evaluation, log/observability tooling, numerical methods |
+| 🏅 **Recently** | Azure AI Engineer Associate (AI-102) · Care-a-Thon finalist · Code4Bharat national semifinalist |
 
 <div align="center"><img src="divider.svg" width="100%" alt=""/></div>
 
@@ -64,8 +37,8 @@ Convolutional autoencoder denoising plus YOLO-inspired detection of faint object
 
 **Languages**<br/>
 <img src="https://img.shields.io/badge/Python-B7410E?style=for-the-badge&labelColor=3E2723&logo=python&logoColor=F5E6D3" alt="Python"/>
-<img src="https://img.shields.io/badge/C%2B%2B-D2691E?style=for-the-badge&labelColor=3E2723&logo=cplusplus&logoColor=F5E6D3" alt="C%2B%2B"/>
-<img src="https://img.shields.io/badge/Java-C9572B?style=for-the-badge&labelColor=3E2723&logo=openjdk&logoColor=F5E6D3" alt="Javascript"/>
+<img src="https://img.shields.io/badge/C%2B%2B-D2691E?style=for-the-badge&labelColor=3E2723&logo=cplusplus&logoColor=F5E6D3" alt="C++"/>
+<img src="https://img.shields.io/badge/Java-C9572B?style=for-the-badge&labelColor=3E2723&logo=openjdk&logoColor=F5E6D3" alt="Java"/>
 <img src="https://img.shields.io/badge/TypeScript-E07B39?style=for-the-badge&labelColor=3E2723&logo=typescript&logoColor=F5E6D3" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/SQL-A8431F?style=for-the-badge&labelColor=3E2723&logo=postgresql&logoColor=F5E6D3" alt="SQL"/>
 <img src="https://img.shields.io/badge/Bash-CC7722?style=for-the-badge&labelColor=3E2723&logo=gnubash&logoColor=F5E6D3" alt="Bash"/>
@@ -76,37 +49,38 @@ Convolutional autoencoder denoising plus YOLO-inspired detection of faint object
 **ML & Numerics**<br/>
 <img src="https://img.shields.io/badge/PyTorch-B7410E?style=for-the-badge&labelColor=3E2723&logo=pytorch&logoColor=F5E6D3" alt="PyTorch"/>
 <img src="https://img.shields.io/badge/TensorFlow-D2691E?style=for-the-badge&labelColor=3E2723&logo=tensorflow&logoColor=F5E6D3" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/scikit--learn-C9572B?style=for-the-badge&labelColor=3E2723&logo=scikitlearn&logoColor=F5E6D3" alt="scikit--learn"/>
+<img src="https://img.shields.io/badge/scikit--learn-C9572B?style=for-the-badge&labelColor=3E2723&logo=scikitlearn&logoColor=F5E6D3" alt="scikit-learn"/>
 <img src="https://img.shields.io/badge/NumPy-E07B39?style=for-the-badge&labelColor=3E2723&logo=numpy&logoColor=F5E6D3" alt="NumPy"/>
 <img src="https://img.shields.io/badge/SciPy-A8431F?style=for-the-badge&labelColor=3E2723&logo=scipy&logoColor=F5E6D3" alt="SciPy"/>
 <img src="https://img.shields.io/badge/LightGBM-CC7722?style=for-the-badge&labelColor=3E2723" alt="LightGBM"/>
-<img src="https://img.shields.io/badge/Hugging_Face-B7410E?style=for-the-badge&labelColor=3E2723&logo=huggingface&logoColor=F5E6D3" alt="Hugging_Face"/>
-
+<img src="https://img.shields.io/badge/Hugging_Face-B7410E?style=for-the-badge&labelColor=3E2723&logo=huggingface&logoColor=F5E6D3" alt="Hugging Face"/>
 
 <br/><br/>
 
-**LLM & GenAI**<br/>
+**LLMs & GenAI**<br/>
+<img src="https://img.shields.io/badge/vLLM-D2691E?style=for-the-badge&labelColor=3E2723" alt="vLLM"/>
+<img src="https://img.shields.io/badge/PEFT_%2F_LoRA-C9572B?style=for-the-badge&labelColor=3E2723" alt="PEFT / LoRA"/>
 <img src="https://img.shields.io/badge/LangChain-B7410E?style=for-the-badge&labelColor=3E2723&logo=langchain&logoColor=F5E6D3" alt="LangChain"/>
-<img src="https://img.shields.io/badge/Vertex_AI-D2691E?style=for-the-badge&labelColor=3E2723&logo=googlecloud&logoColor=F5E6D3" alt="Vertex_AI"/>
-<img src="https://img.shields.io/badge/Gemini-C9572B?style=for-the-badge&labelColor=3E2723&logo=googlegemini&logoColor=F5E6D3" alt="Gemini"/>
-<img src="https://img.shields.io/badge/Pinecone-E07B39?style=for-the-badge&labelColor=3E2723&logo=pinecone&logoColor=F5E6D3" alt="Pinecone"/>
-<img src="https://img.shields.io/badge/RAGAS-A8431F?style=for-the-badge&labelColor=3E2723" alt="RAGAS"/>
+<img src="https://img.shields.io/badge/Vertex_AI-E07B39?style=for-the-badge&labelColor=3E2723&logo=googlecloud&logoColor=F5E6D3" alt="Vertex AI"/>
+<img src="https://img.shields.io/badge/Gemini-A8431F?style=for-the-badge&labelColor=3E2723&logo=googlegemini&logoColor=F5E6D3" alt="Gemini"/>
+<img src="https://img.shields.io/badge/Pinecone-CC7722?style=for-the-badge&labelColor=3E2723&logo=pinecone&logoColor=F5E6D3" alt="Pinecone"/>
+<img src="https://img.shields.io/badge/RAGAS-B7410E?style=for-the-badge&labelColor=3E2723" alt="RAGAS"/>
 
 <br/><br/>
 
-**Data, Infra & Dev Tools**<br/>
-<img src="https://img.shields.io/badge/PostgreSQL-B7410E?style=for-the-badge&labelColor=3E2723&logo=postgresql&logoColor=F5E6D3" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/PostGIS-D2691E?style=for-the-badge&labelColor=3E2723&logo=postgresql&logoColor=F5E6D3" alt="PostGIS"/>
-<img src="https://img.shields.io/badge/Supabase-C9572B?style=for-the-badge&labelColor=3E2723&logo=supabase&logoColor=F5E6D3" alt="Supabase"/>
-<img src="https://img.shields.io/badge/MongoDB-E07B39?style=for-the-badge&labelColor=3E2723&logo=mongodb&logoColor=F5E6D3" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/Docker-A8431F?style=for-the-badge&labelColor=3E2723&logo=docker&logoColor=F5E6D3" alt="Docker"/>
-<img src="https://img.shields.io/badge/Google_Cloud-CC7722?style=for-the-badge&labelColor=3E2723&logo=googlecloud&logoColor=F5E6D3" alt="Google_Cloud"/>
-<img src="https://img.shields.io/badge/Azure_AI-B7410E?style=for-the-badge&labelColor=3E2723&logo=microsoftazure&logoColor=F5E6D3" alt="Azure_AI"/>
-<img src="https://img.shields.io/badge/Git-D2691E?style=for-the-badge&labelColor=3E2723&logo=git&logoColor=F5E6D3" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-C9572B?style=for-the-badge&labelColor=3E2723&logo=githubactions&logoColor=F5E6D3" alt="GitHub_Actions"/>
-<img src="https://img.shields.io/badge/VS_Code-E07B39?style=for-the-badge&labelColor=3E2723&logo=visualstudiocode&logoColor=F5E6D3" alt="VS_Code"/>
-<img src="https://img.shields.io/badge/Jupyter-A8431F?style=for-the-badge&labelColor=3E2723&logo=jupyter&logoColor=F5E6D3" alt="Jupyter"/>
-<img src="https://img.shields.io/badge/Weights_%26_Biases-CC7722?style=for-the-badge&labelColor=3E2723&logo=weightsandbiases&logoColor=F5E6D3" alt="Weights_%26_Biases"/>
+**Systems, Data & Observability**<br/>
+<img src="https://img.shields.io/badge/FastAPI-D2691E?style=for-the-badge&labelColor=3E2723&logo=fastapi&logoColor=F5E6D3" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/OpenTelemetry-C9572B?style=for-the-badge&labelColor=3E2723&logo=opentelemetry&logoColor=F5E6D3" alt="OpenTelemetry"/>
+<img src="https://img.shields.io/badge/Docker-E07B39?style=for-the-badge&labelColor=3E2723&logo=docker&logoColor=F5E6D3" alt="Docker"/>
+<img src="https://img.shields.io/badge/PostgreSQL-A8431F?style=for-the-badge&labelColor=3E2723&logo=postgresql&logoColor=F5E6D3" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/PostGIS-CC7722?style=for-the-badge&labelColor=3E2723&logo=postgresql&logoColor=F5E6D3" alt="PostGIS"/>
+<img src="https://img.shields.io/badge/SQLite-B7410E?style=for-the-badge&labelColor=3E2723&logo=sqlite&logoColor=F5E6D3" alt="SQLite"/>
+<img src="https://img.shields.io/badge/Supabase-D2691E?style=for-the-badge&labelColor=3E2723&logo=supabase&logoColor=F5E6D3" alt="Supabase"/>
+<img src="https://img.shields.io/badge/Google_Cloud_Run-C9572B?style=for-the-badge&labelColor=3E2723&logo=googlecloud&logoColor=F5E6D3" alt="Cloud Run"/>
+<img src="https://img.shields.io/badge/Azure_AI-E07B39?style=for-the-badge&labelColor=3E2723&logo=microsoftazure&logoColor=F5E6D3" alt="Azure AI"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-A8431F?style=for-the-badge&labelColor=3E2723&logo=githubactions&logoColor=F5E6D3" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/Git-CC7722?style=for-the-badge&labelColor=3E2723&logo=git&logoColor=F5E6D3" alt="Git"/>
+<img src="https://img.shields.io/badge/Weights_%26_Biases-B7410E?style=for-the-badge&labelColor=3E2723&logo=weightsandbiases&logoColor=F5E6D3" alt="Weights & Biases"/>
 
 </div>
 
@@ -118,7 +92,8 @@ Convolutional autoencoder denoising plus YOLO-inspired detection of faint object
 1. Reproduce before improving   →  if I can't match the baseline, I don't trust my idea
 2. Evaluate before shipping     →  a model without a metric is an opinion
 3. Treat data as the system     →  leakage and bad splits break more than bad architectures
-4. Write down what failed       →  negative results belong in the README too
+4. State the limits             →  every README says what the numbers don't show
+5. Write down what failed       →  negative results belong in the repo too
 ```
 
 <div align="center"><img src="divider.svg" width="100%" alt=""/></div>
@@ -134,10 +109,24 @@ Convolutional autoencoder denoising plus YOLO-inspired detection of faint object
 
 <img src="https://streak-stats.demolab.com?user=adriennie&background=2B1810&ring=E07B39&fire=E9A23B&currStreakLabel=E9A23B&currStreakNum=F5E6D3&sideLabels=E9A23B&sideNums=F5E6D3&dates=C9A27E&border=00000000&stroke=6B4A36" alt="GitHub streak"/>
 
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adriennie&bg_color=2B1810&color=E9A23B&line=E07B39&point=F5E6D3&area=true&area_color=B7410E&hide_border=true&radius=14" alt="Contribution graph" width="95%"/>
+
+<br/><br/>
+
+<!-- Animated snake: needs the workflow in .github/workflows/snake.yml (included separately) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adriennie/adriennie/output/github-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/adriennie/adriennie/output/github-snake.svg" alt="Contribution snake" width="95%"/>
+</picture>
+
 </div>
 
-## 🤝 &nbsp;Let's talk
+<div align="center"><img src="divider.svg" width="100%" alt=""/></div>
 
-Working on something where the model is only half the problem? I'm looking for **AI + X** internships, industry-collaborative theses and research projects in 🇨🇭 / DACH. Reach me on [LinkedIn](https://linkedin.com/in/adrikapradhan) or at **adrika.pradhan@usi.ch**.
+## 🍂 &nbsp;Say hello
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B7410E&height=110&section=footer&reversal=true&fontColor=FFF4E0&fontSize=22&text=connect%20with%20me%F0%9F%8D%81&fontAlignY=70" width="100%" alt=""/>
+If you're building something where the model is only half the problem (evaluation, serving, data, observability), I'm always happy to talk shop. Find me on [LinkedIn](https://www.linkedin.com/in/adrika-pradhan-3a92622ba/) or at **adrika.pradhan@usi.ch**.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B7410E&height=110&section=footer&reversal=true&fontColor=FFF4E0&fontSize=22&text=thanks%20for%20stopping%20by%20%F0%9F%8D%81&fontAlignY=70&animation=fadeIn" width="100%" alt=""/>
