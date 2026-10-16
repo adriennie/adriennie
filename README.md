@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B7410E&height=200&section=header&text=Adrika%20Pradhan&fontSize=52&fontColor=FFF4E0&fontAlignY=36&desc=MSc%20AI%20%C2%B7%20USI%20Lugano&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Adrika Pradhan: MSc AI, USI Lugano"/>
+<img src="banner.svg" alt="Adrika Pradhan: MSc AI, USI Lugano" width="100%"/>
 
 <a href="https://github.com/adriennie">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=E07B39&center=true&vCenter=true&width=640&height=40&lines=Training+models+%F0%9F%8D%82;Measuring+them+honestly+%F0%9F%8D%81;Building+the+systems+around+them+%F0%9F%8C%B0;Writing+down+what+didn%27t+work+%F0%9F%8D%B5" alt="typing animation"/>
@@ -12,22 +12,34 @@
 <a href="mailto:adrika.pradhan@usi.ch"><img src="https://img.shields.io/badge/Email-D2691E?style=for-the-badge&logo=gmail&logoColor=F5E6D3&labelColor=3E2723" alt="Email"/></a>
 <img src="https://komarev.com/ghpvc/?username=adriennie&label=Profile+views&color=E07B39&style=for-the-badge&labelColor=3E2723" alt="Profile views"/>
 
-</div>
+<img src="divider.svg" width="100%" alt=""/>
 
-<br/>
+</div>
 
 ## 🍂 &nbsp;Hello, world
 
-I'm an MSc AI student at **USI Lugano**, working on the part of ML where the maths meets production: benchmarks, evaluation harnesses, retrieval pipelines, geospatial backends, and anything that has to keep working after the demo ends.
+I'm an MSc AI student at **USI Lugano**, drawn to the part of ML where the maths meets production: benchmarks, evaluation harnesses, retrieval pipelines, observability, and anything that has to keep working after the demo ends.
 
 > *The gap between "it works in my notebook" and "it works on a Monday morning" is where most of the interesting problems live.*
 
-|  |  |
-|---|---|
-| 📍 **Based in** | Lugano, Switzerland 🇨🇭 |
-| 🎓 **Studying** | MSc Artificial Intelligence @ USI (2026–2028) · B.Tech CS (AI & ML), UPES |
-| 🔎 **Into** | LLM inference & fine-tuning, evaluation, log/observability tooling, numerical methods |
-| 🏅 **Recently** | Azure AI Engineer Associate (AI-102) · Care-a-Thon finalist · Code4Bharat national semifinalist |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+📍 **Based in** Lugano, Switzerland 🇨🇭<br/>
+🎓 **Studying** MSc Artificial Intelligence @ USI<br/>
+🏫 **Before** B.Tech CS (AI & ML), UPES
+
+</td>
+<td width="50%" valign="top">
+
+🔎 **Into** LLM inference & fine-tuning, evaluation, log analysis, numerical methods<br/>
+🌍 **Speaks** English, German (A1 and climbing)<br/>
+🏅 **Recently** Azure AI Engineer Associate, hackathon finalist
+
+</td>
+</tr>
+</table>
 
 <div align="center"><img src="divider.svg" width="100%" alt=""/></div>
 
@@ -86,6 +98,18 @@ I'm an MSc AI student at **USI Lugano**, working on the part of ML where the mat
 
 <div align="center"><img src="divider.svg" width="100%" alt=""/></div>
 
+## 🎖️ &nbsp;Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Azure_AI_Engineer_Associate-AI--102-B7410E?style=for-the-badge&labelColor=3E2723&logo=microsoftazure&logoColor=F5E6D3" alt="Azure AI Engineer Associate"/>
+<img src="https://img.shields.io/badge/AWS-LLMs_on_Amazon_Bedrock-D2691E?style=for-the-badge&labelColor=3E2723&logo=amazonaws&logoColor=F5E6D3" alt="AWS Bedrock"/>
+<img src="https://img.shields.io/badge/HKUST-Python_%26_Statistics-C9572B?style=for-the-badge&labelColor=3E2723" alt="HKUST Python & Statistics"/>
+
+</div>
+
+<div align="center"><img src="divider.svg" width="100%" alt=""/></div>
+
 ## 🍵 &nbsp;How I work
 
 ```text
@@ -102,20 +126,15 @@ I'm an MSc AI student at **USI Lugano**, working on the part of ML where the mat
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adriennie&show_icons=true&count_private=true&bg_color=2B1810&title_color=E9A23B&text_color=F5E6D3&icon_color=E07B39&hide_border=true&border_radius=14" alt="GitHub stats" height="165"/>
+<img src="github-metrics.svg" alt="GitHub metrics" width="100%"/>
+
+<br/><br/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriennie&layout=compact&hide=html,css&bg_color=2B1810&title_color=E9A23B&text_color=F5E6D3&icon_color=E07B39&hide_border=true&border_radius=14" alt="Top languages" height="165"/>
+<img src="https://streak-stats.demolab.com?user=adriennie&background=2B1810&ring=E07B39&fire=E9A23B&currStreakLabel=E9A23B&currStreakNum=F5E6D3&sideLabels=E9A23B&sideNums=F5E6D3&dates=C9A27E&border=00000000&stroke=6B4A36" alt="GitHub streak" height="165"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=adriennie&background=2B1810&ring=E07B39&fire=E9A23B&currStreakLabel=E9A23B&currStreakNum=F5E6D3&sideLabels=E9A23B&sideNums=F5E6D3&dates=C9A27E&border=00000000&stroke=6B4A36" alt="GitHub streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adriennie&bg_color=2B1810&color=E9A23B&line=E07B39&point=F5E6D3&area=true&area_color=B7410E&hide_border=true&radius=14" alt="Contribution graph" width="95%"/>
-
-<br/><br/>
-
-<!-- Animated snake: needs the workflow in .github/workflows/snake.yml (included separately) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adriennie/adriennie/output/github-snake-dark.svg"/>
   <img src="https://raw.githubusercontent.com/adriennie/adriennie/output/github-snake.svg" alt="Contribution snake" width="95%"/>
