@@ -91,36 +91,40 @@ Logs, traces and telemetry, and anomaly detection that stays honest about its re
 
 <div align="center">
 
+<img src="https://www.gitskins.com/api/section/stack?username=adriennie&theme=neon&style=aura" width="100%" alt="Language stack, weighted by my repositories (GitSkins)"/>
+
+<br/>
+
 **Languages**<br/>
-<img src="https://img.shields.io/badge/Python-7c3aed?style=for-the-badge&labelColor=0b0b16&logo=python&logoColor=f5f3ff" alt="Python"/>
-<img src="https://img.shields.io/badge/Rust-0891b2?style=for-the-badge&labelColor=0b0b16&logo=rust&logoColor=f5f3ff" alt="Rust"/>
-<img src="https://img.shields.io/badge/C%2B%2B-059669?style=for-the-badge&labelColor=0b0b16&logo=cplusplus&logoColor=f5f3ff" alt="C++"/>
-<img src="https://img.shields.io/badge/TypeScript-db2777?style=for-the-badge&labelColor=0b0b16&logo=typescript&logoColor=f5f3ff" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/SQL-4f46e5?style=for-the-badge&labelColor=0b0b16&logo=postgresql&logoColor=f5f3ff" alt="SQL"/>
-<img src="https://img.shields.io/badge/Bash-9333ea?style=for-the-badge&labelColor=0b0b16&logo=gnubash&logoColor=f5f3ff" alt="Bash"/>
+<img src="https://img.shields.io/badge/Python-0ea5e9?style=for-the-badge&labelColor=0a0e1a&logo=python&logoColor=7dd3fc" alt="Python"/>
+<img src="https://img.shields.io/badge/Rust-a855f7?style=for-the-badge&labelColor=0a0e1a&logo=rust&logoColor=7dd3fc" alt="Rust"/>
+<img src="https://img.shields.io/badge/C%2B%2B-f472b6?style=for-the-badge&labelColor=0a0e1a&logo=cplusplus&logoColor=7dd3fc" alt="C++"/>
+<img src="https://img.shields.io/badge/TypeScript-38bdf8?style=for-the-badge&labelColor=0a0e1a&logo=typescript&logoColor=7dd3fc" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/SQL-3b82f6?style=for-the-badge&labelColor=0a0e1a&logo=postgresql&logoColor=7dd3fc" alt="SQL"/>
+<img src="https://img.shields.io/badge/Bash-0ea5e9?style=for-the-badge&labelColor=0a0e1a&logo=gnubash&logoColor=7dd3fc" alt="Bash"/>
 
 <br/><br/>
 
 **ML & LLMs**<br/>
-<img src="https://img.shields.io/badge/PyTorch-7c3aed?style=for-the-badge&labelColor=0b0b16&logo=pytorch&logoColor=f5f3ff" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/Hugging_Face-0891b2?style=for-the-badge&labelColor=0b0b16&logo=huggingface&logoColor=f5f3ff" alt="Hugging Face"/>
-<img src="https://img.shields.io/badge/vLLM-059669?style=for-the-badge&labelColor=0b0b16" alt="vLLM"/>
-<img src="https://img.shields.io/badge/PEFT_%2F_LoRA-db2777?style=for-the-badge&labelColor=0b0b16" alt="PEFT / LoRA"/>
-<img src="https://img.shields.io/badge/scikit--learn-4f46e5?style=for-the-badge&labelColor=0b0b16&logo=scikitlearn&logoColor=f5f3ff" alt="scikit-learn"/>
-<img src="https://img.shields.io/badge/LangChain-9333ea?style=for-the-badge&labelColor=0b0b16&logo=langchain&logoColor=f5f3ff" alt="LangChain"/>
-<img src="https://img.shields.io/badge/RAGAS-7c3aed?style=for-the-badge&labelColor=0b0b16" alt="RAGAS"/>
+<img src="https://img.shields.io/badge/PyTorch-0ea5e9?style=for-the-badge&labelColor=0a0e1a&logo=pytorch&logoColor=7dd3fc" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/Hugging_Face-a855f7?style=for-the-badge&labelColor=0a0e1a&logo=huggingface&logoColor=7dd3fc" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/vLLM-f472b6?style=for-the-badge&labelColor=0a0e1a" alt="vLLM"/>
+<img src="https://img.shields.io/badge/PEFT_%2F_LoRA-38bdf8?style=for-the-badge&labelColor=0a0e1a" alt="PEFT / LoRA"/>
+<img src="https://img.shields.io/badge/scikit--learn-3b82f6?style=for-the-badge&labelColor=0a0e1a&logo=scikitlearn&logoColor=7dd3fc" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/LangChain-0ea5e9?style=for-the-badge&labelColor=0a0e1a&logo=langchain&logoColor=7dd3fc" alt="LangChain"/>
+<img src="https://img.shields.io/badge/RAGAS-0ea5e9?style=for-the-badge&labelColor=0a0e1a" alt="RAGAS"/>
 
 <br/><br/>
 
 **Systems & Observability**<br/>
-<img src="https://img.shields.io/badge/FastAPI-0891b2?style=for-the-badge&labelColor=0b0b16&logo=fastapi&logoColor=f5f3ff" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/OpenTelemetry-059669?style=for-the-badge&labelColor=0b0b16&logo=opentelemetry&logoColor=f5f3ff" alt="OpenTelemetry"/>
-<img src="https://img.shields.io/badge/Docker-db2777?style=for-the-badge&labelColor=0b0b16&logo=docker&logoColor=f5f3ff" alt="Docker"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4f46e5?style=for-the-badge&labelColor=0b0b16&logo=postgresql&logoColor=f5f3ff" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/Google_Cloud-9333ea?style=for-the-badge&labelColor=0b0b16&logo=googlecloud&logoColor=f5f3ff" alt="Google Cloud"/>
-<img src="https://img.shields.io/badge/Azure_AI-7c3aed?style=for-the-badge&labelColor=0b0b16&logo=microsoftazure&logoColor=f5f3ff" alt="Azure AI"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-0891b2?style=for-the-badge&labelColor=0b0b16&logo=githubactions&logoColor=f5f3ff" alt="GitHub Actions"/>
-<img src="https://img.shields.io/badge/W%26B-059669?style=for-the-badge&labelColor=0b0b16&logo=weightsandbiases&logoColor=f5f3ff" alt="Weights & Biases"/>
+<img src="https://img.shields.io/badge/FastAPI-a855f7?style=for-the-badge&labelColor=0a0e1a&logo=fastapi&logoColor=7dd3fc" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/OpenTelemetry-f472b6?style=for-the-badge&labelColor=0a0e1a&logo=opentelemetry&logoColor=7dd3fc" alt="OpenTelemetry"/>
+<img src="https://img.shields.io/badge/Docker-38bdf8?style=for-the-badge&labelColor=0a0e1a&logo=docker&logoColor=7dd3fc" alt="Docker"/>
+<img src="https://img.shields.io/badge/PostgreSQL-3b82f6?style=for-the-badge&labelColor=0a0e1a&logo=postgresql&logoColor=7dd3fc" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Google_Cloud-0ea5e9?style=for-the-badge&labelColor=0a0e1a&logo=googlecloud&logoColor=7dd3fc" alt="Google Cloud"/>
+<img src="https://img.shields.io/badge/Azure_AI-0ea5e9?style=for-the-badge&labelColor=0a0e1a&logo=microsoftazure&logoColor=7dd3fc" alt="Azure AI"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-a855f7?style=for-the-badge&labelColor=0a0e1a&logo=githubactions&logoColor=7dd3fc" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/W%26B-f472b6?style=for-the-badge&labelColor=0a0e1a&logo=weightsandbiases&logoColor=7dd3fc" alt="Weights & Biases"/>
 
 </div>
 
@@ -158,8 +162,7 @@ Logs, traces and telemetry, and anomaly detection that stays honest about its re
 
 <div align="center">
 
-<img src="https://www.gitskins.com/api/section/stats?username=adriennie&theme=neon&style=aura" width="49%" alt="GitHub stats"/>
-<img src="https://www.gitskins.com/api/section/stack?username=adriennie&theme=neon&style=aura" width="49%" alt="Language stack"/>
+<img src="https://www.gitskins.com/api/section/stats?username=adriennie&theme=neon&style=aura" width="100%" alt="GitHub stats"/>
 
 <img src="https://www.gitskins.com/api/section/heatmap?username=adriennie&theme=neon&style=aura" width="100%" alt="Contribution heatmap"/>
 

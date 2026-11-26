@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 778" width="1000" height="778" role="img" aria-label="Terminal: whoami, profile, what I care about (measure, serve, observe) and how I work.">
+<style>
+.l{animation:in .35s ease-out both}
+@keyframes in{from{opacity:0;transform:translateX(-6px)}}
+.cur{animation:blink 1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;font-size:15px}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<defs>
+<linearGradient id="foil" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7c3aed"/><stop offset=".35" stop-color="#22d3ee"/><stop offset=".65" stop-color="#4ade80"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
+<radialGradient id="glow" cx=".9" cy="0" r=".7"><stop offset="0" stop-color="#7c3aed" stop-opacity=".18"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1000" height="778" rx="18" fill="url(#foil)"/>
+<rect x="2" y="2" width="996" height="774" rx="16" fill="#0a0e1a"/>
+<rect x="2" y="2" width="996" height="774" rx="16" fill="url(#glow)"/>
+<path d="M2 46 V18 a16 16 0 0 1 16 -16 H982 a16 16 0 0 1 16 16 V46z" fill="#111827"/>
+<line x1="2" y1="46" x2="998" y2="46" stroke="#1f2937"/>
+<circle cx="28" cy="24" r="6.5" fill="#f472b6"/><circle cx="50" cy="24" r="6.5" fill="#fbbf24"/><circle cx="72" cy="24" r="6.5" fill="#4ade80"/>
+<text x="500.0" y="29" text-anchor="middle" fill="#64748b" font-size="13">adrika@usi: ~ — zsh</text>
+<g class="l" style="animation-delay:0.20s"><text x="32" y="78" xml:space="preserve"><tspan fill="#4ade80">adrika</tspan><tspan fill="#4ade80">@usi</tspan><tspan fill="#64748b">:</tspan><tspan fill="#38bdf8">~</tspan><tspan fill="#64748b">$ </tspan><tspan fill="#f5f3ff">whoami</tspan></text></g>
+<g class="l" style="animation-delay:0.65s"><text x="32" y="102" xml:space="preserve"><tspan fill="#f5f3ff">Adrika Pradhan</tspan><tspan fill="#cbd5e1"> · MSc AI student @ USI Lugano</tspan></text></g>
+<g class="l" style="animation-delay:0.77s"><text x="32" y="126" xml:space="preserve"><tspan fill="#cbd5e1">working where the maths meets production: benchmarks, evaluation,</tspan></text></g>
+<g class="l" style="animation-delay:0.89s"><text x="32" y="150" xml:space="preserve"><tspan fill="#cbd5e1">LLM serving and observability. anything that must survive the demo.</tspan></text></g>
+<g class="l" style="animation-delay:1.01s"><text x="32" y="198" xml:space="preserve"><tspan fill="#4ade80">adrika</tspan><tspan fill="#4ade80">@usi</tspan><tspan fill="#64748b">:</tspan><tspan fill="#38bdf8">~</tspan><tspan fill="#64748b">$ </tspan><tspan fill="#f5f3ff">cat profile.yaml</tspan></text></g>
+<g class="l" style="animation-delay:1.46s"><text x="32" y="222" xml:space="preserve"><tspan fill="#7dd3fc">based_in:  </tspan><tspan fill="#cbd5e1">Lugano, Switzerland</tspan></text></g>
+<g class="l" style="animation-delay:1.58s"><text x="32" y="246" xml:space="preserve"><tspan fill="#7dd3fc">studying:  </tspan><tspan fill="#cbd5e1">MSc Artificial Intelligence @ USI</tspan></text></g>
+<g class="l" style="animation-delay:1.70s"><text x="32" y="270" xml:space="preserve"><tspan fill="#7dd3fc">before:    </tspan><tspan fill="#cbd5e1">B.Tech CS (AI &amp; ML), UPES</tspan></text></g>
+<g class="l" style="animation-delay:1.82s"><text x="32" y="294" xml:space="preserve"><tspan fill="#7dd3fc">into:      </tspan><tspan fill="#cbd5e1">LLM inference, evaluation, log analysis, numerical methods</tspan></text></g>
+<g class="l" style="animation-delay:1.94s"><text x="32" y="318" xml:space="preserve"><tspan fill="#7dd3fc">certified: </tspan><tspan fill="#cbd5e1">Azure AI Engineer Associate (AI-102)</tspan></text></g>
+<g class="l" style="animation-delay:2.06s"><text x="32" y="342" xml:space="preserve"><tspan fill="#7dd3fc">speaks:    </tspan><tspan fill="#cbd5e1">English, German (A1 and climbing)</tspan></text></g>
+<g class="l" style="animation-delay:2.18s"><text x="32" y="390" xml:space="preserve"><tspan fill="#4ade80">adrika</tspan><tspan fill="#4ade80">@usi</tspan><tspan fill="#64748b">:</tspan><tspan fill="#38bdf8">~</tspan><tspan fill="#64748b">$ </tspan><tspan fill="#f5f3ff">ls ./cares</tspan></text></g>
+<g class="l" style="animation-delay:2.63s"><text x="32" y="414" xml:space="preserve"><tspan fill="#c084fc">measure/  </tspan><tspan fill="#cbd5e1">reproducible benchmarks, multi-seed ablations, honest write-ups</tspan></text></g>
+<g class="l" style="animation-delay:2.75s"><text x="32" y="438" xml:space="preserve"><tspan fill="#c084fc">serve/    </tspan><tspan fill="#cbd5e1">models out of notebooks: LLM inference, fine-tuning, APIs, CI that runs</tspan></text></g>
+<g class="l" style="animation-delay:2.87s"><text x="32" y="462" xml:space="preserve"><tspan fill="#c084fc">observe/  </tspan><tspan fill="#cbd5e1">logs, traces, telemetry, anomaly detection honest about its recall</tspan></text></g>
+<g class="l" style="animation-delay:2.99s"><text x="32" y="510" xml:space="preserve"><tspan fill="#4ade80">adrika</tspan><tspan fill="#4ade80">@usi</tspan><tspan fill="#64748b">:</tspan><tspan fill="#38bdf8">~</tspan><tspan fill="#64748b">$ </tspan><tspan fill="#f5f3ff">cat how-i-work.md</tspan></text></g>
+<g class="l" style="animation-delay:3.44s"><text x="32" y="534" xml:space="preserve"><tspan fill="#a855f7">1. </tspan><tspan fill="#f5f3ff">reproduce before improving  </tspan><tspan fill="#f472b6">→ </tspan><tspan fill="#cbd5e1">if I can't match the baseline, I don't trust my idea</tspan></text></g>
+<g class="l" style="animation-delay:3.56s"><text x="32" y="558" xml:space="preserve"><tspan fill="#a855f7">2. </tspan><tspan fill="#f5f3ff">evaluate before shipping    </tspan><tspan fill="#f472b6">→ </tspan><tspan fill="#cbd5e1">a model without a metric is an opinion</tspan></text></g>
+<g class="l" style="animation-delay:3.68s"><text x="32" y="582" xml:space="preserve"><tspan fill="#a855f7">3. </tspan><tspan fill="#f5f3ff">treat data as the system    </tspan><tspan fill="#f472b6">→ </tspan><tspan fill="#cbd5e1">leakage and bad splits break more than bad architectures</tspan></text></g>
+<g class="l" style="animation-delay:3.80s"><text x="32" y="606" xml:space="preserve"><tspan fill="#a855f7">4. </tspan><tspan fill="#f5f3ff">state the limits            </tspan><tspan fill="#f472b6">→ </tspan><tspan fill="#cbd5e1">every README says what the numbers don't show</tspan></text></g>
+<g class="l" style="animation-delay:3.92s"><text x="32" y="630" xml:space="preserve"><tspan fill="#a855f7">5. </tspan><tspan fill="#f5f3ff">write down what failed      </tspan><tspan fill="#f472b6">→ </tspan><tspan fill="#cbd5e1">negative results belong in the repo too</tspan></text></g>
+<g class="l" style="animation-delay:4.04s"><text x="32" y="678" xml:space="preserve"><tspan fill="#4ade80">adrika</tspan><tspan fill="#4ade80">@usi</tspan><tspan fill="#64748b">:</tspan><tspan fill="#38bdf8">~</tspan><tspan fill="#64748b">$ </tspan><tspan fill="#f5f3ff">echo $MOTTO</tspan></text></g>
+<g class="l" style="animation-delay:4.49s"><text x="32" y="702" xml:space="preserve"><tspan fill="#fde68a">"it works in my notebook" </tspan><tspan fill="#f472b6">≠ </tspan><tspan fill="#fde68a">"it works on a Monday morning"</tspan></text></g>
+<g class="l" style="animation-delay:4.61s"><text x="32" y="726" xml:space="preserve"><tspan fill="#4ade80">adrika</tspan><tspan fill="#4ade80">@usi</tspan><tspan fill="#64748b">:</tspan><tspan fill="#38bdf8">~</tspan><tspan fill="#64748b">$ </tspan><tspan fill="#f5f3ff"></tspan></text></g>
+<rect class="cur" x="158.4" y="712" width="9" height="18" fill="#38bdf8"/>
+</svg>
