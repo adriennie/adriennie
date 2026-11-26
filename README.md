@@ -46,10 +46,12 @@ I'm an MSc AI student at **USI Lugano**, working where the maths meets productio
 
 <div align="center">
 
-<a href="https://github.com/adriennie/Sentinel-cli"><img src="https://www.gitskins.com/api/section/holo-card?username=adriennie&i=0" width="49%" alt="Sentinel-cli: pre-action security firewall and deterministic policy gate for autonomous AI coding agents (Rust)"/></a>
-<a href="https://github.com/adriennie/log-triage"><img src="https://www.gitskins.com/api/section/holo-card?username=adriennie&i=1" width="49%" alt="log-triage: memory-efficient streaming log ingestion and anomaly triage (Python)"/></a>
-<a href="https://github.com/adriennie/vllm-pagedattention-benchmark"><img src="https://www.gitskins.com/api/section/holo-card?username=adriennie&i=2" width="49%" alt="vllm-pagedattention-benchmark: PagedAttention block-size ablations across LLMs"/></a>
-<a href="https://github.com/adriennie/vllm-lora-extension"><img src="https://www.gitskins.com/api/section/holo-card?username=adriennie&i=3" width="49%" alt="vllm-lora-extension: extending vLLM serving to benchmark LoRA adapters"/></a>
+<img src="https://www.gitskins.com/api/section/projects?username=adriennie&theme=neon&repos=adriennie%2FSentinel-cli%2Cadriennie%2Flog-triage%2Cadriennie%2Fvllm-pagedattention-benchmark%2Cadriennie%2Fvllm-lora-extension" width="100%" alt="Featured projects: Sentinel-cli, log-triage, vllm-pagedattention-benchmark, vllm-lora-extension"/>
+
+<a href="https://github.com/adriennie/Sentinel-cli">Sentinel-cli</a> ·
+<a href="https://github.com/adriennie/log-triage">log-triage</a> ·
+<a href="https://github.com/adriennie/vllm-pagedattention-benchmark">vllm-pagedattention-benchmark</a> ·
+<a href="https://github.com/adriennie/vllm-lora-extension">vllm-lora-extension</a>
 
 </div>
 
