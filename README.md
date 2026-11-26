@@ -23,21 +23,6 @@
 
 <div align="center"><img src="divider.svg" width="100%" alt=""/></div>
 
-## 🃏 &nbsp;Featured work
-
-<div align="center">
-
-<img src="https://www.gitskins.com/api/section/projects?username=adriennie&theme=neon&repos=adriennie%2FSentinel-cli%2Cadriennie%2Flog-triage%2Cadriennie%2Fvllm-pagedattention-benchmark%2Cadriennie%2Fvllm-lora-extension" width="100%" alt="Featured projects: Sentinel-cli, log-triage, vllm-pagedattention-benchmark, vllm-lora-extension"/>
-
-<a href="https://github.com/adriennie/Sentinel-cli">Sentinel-cli</a> ·
-<a href="https://github.com/adriennie/log-triage">log-triage</a> ·
-<a href="https://github.com/adriennie/vllm-pagedattention-benchmark">vllm-pagedattention-benchmark</a> ·
-<a href="https://github.com/adriennie/vllm-lora-extension">vllm-lora-extension</a>
-
-</div>
-
-<div align="center"><img src="divider.svg" width="100%" alt=""/></div>
-
 ## 🧰 &nbsp;Toolbox
 
 <div align="center">
@@ -82,6 +67,6 @@
 
 ## 👋 &nbsp;Say hello
 
-If you're building something where the model is only half the problem (evaluation, serving, data, observability), I'm always happy to talk shop. Find me on [LinkedIn](https://www.linkedin.com/in/adrika-pradhan-3a92622ba/) or at **adrika.pradhan@usi.ch**.
+If you're building something where the model is only half the problem (evaluation, serving, data, observability), I'm always happy to talk shop. Find me on [LinkedIn](https://www.linkedin.com/in/adrika-pradhan-3a92622ba/) or at **<adrika.pradhan@usi.ch>**.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,35:22d3ee,65:4ade80,100:f472b6&height=110&section=footer&reversal=true&fontColor=0b0b16&fontSize=22&text=thanks%20for%20stopping%20by&fontAlignY=70&animation=fadeIn" width="100%" alt=""/>
