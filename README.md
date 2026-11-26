@@ -15,30 +15,11 @@
 
 </div>
 
-## ✨ &nbsp;Hello, world
+<div align="center">
 
-I'm an MSc AI student at **USI Lugano**, working where the maths meets production: benchmarks, evaluation, LLM serving and observability. I care about anything that has to keep working after the demo ends.
+<img src="terminal.svg" width="100%" alt="Terminal: whoami — Adrika Pradhan, MSc AI student at USI Lugano. Profile: based in Lugano; studying MSc AI at USI; before B.Tech CS (AI & ML) at UPES; into LLM inference, evaluation, log analysis, numerical methods; certified Azure AI Engineer Associate (AI-102); speaks English and German (A1). Cares about: measure, serve, observe. How I work: reproduce before improving, evaluate before shipping, treat data as the system, state the limits, write down what failed."/>
 
-> *The gap between "it works in my notebook" and "it works on a Monday morning" is where most of the interesting problems live.*
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-📍 **Based in** Lugano, Switzerland<br/>
-🎓 **Studying** MSc Artificial Intelligence @ USI<br/>
-🏫 **Before** B.Tech CS (AI & ML), UPES
-
-</td>
-<td width="50%" valign="top">
-
-🔎 **Into** LLM inference, evaluation, log analysis, numerical methods<br/>
-🏅 **Certified** Azure AI Engineer Associate (AI-102)<br/>
-🌍 **Speaks** English, German (A1 and climbing)
-
-</td>
-</tr>
-</table>
+</div>
 
 <div align="center"><img src="divider.svg" width="100%" alt=""/></div>
 
@@ -54,36 +35,6 @@ I'm an MSc AI student at **USI Lugano**, working where the maths meets productio
 <a href="https://github.com/adriennie/vllm-lora-extension">vllm-lora-extension</a>
 
 </div>
-
-<div align="center"><img src="divider.svg" width="100%" alt=""/></div>
-
-## 💠 &nbsp;What I care about
-
-<table>
-<tr>
-<td align="center" width="33%" valign="top">
-
-### 🔬 Measure
-
-Reproducible benchmarks, ablations with more than one seed, and write-ups that state what the numbers *don't* show.
-
-</td>
-<td align="center" width="33%" valign="top">
-
-### ⚙️ Serve
-
-Getting models out of notebooks: LLM inference and fine-tuning, APIs, containers, CI that actually runs.
-
-</td>
-<td align="center" width="33%" valign="top">
-
-### 🔭 Observe
-
-Logs, traces and telemetry, and anomaly detection that stays honest about its recall.
-
-</td>
-</tr>
-</table>
 
 <div align="center"><img src="divider.svg" width="100%" alt=""/></div>
 
@@ -143,18 +94,6 @@ Logs, traces and telemetry, and anomaly detection that stays honest about its re
 <img src="https://img.shields.io/badge/TCS_CodeVita_2025-Round_2-9333ea?style=for-the-badge&labelColor=0b0b16" alt="TCS CodeVita 2025 Round 2"/>
 
 </div>
-
-<div align="center"><img src="divider.svg" width="100%" alt=""/></div>
-
-## 🧪 &nbsp;How I work
-
-```text
-1. Reproduce before improving   →  if I can't match the baseline, I don't trust my idea
-2. Evaluate before shipping     →  a model without a metric is an opinion
-3. Treat data as the system     →  leakage and bad splits break more than bad architectures
-4. State the limits             →  every README says what the numbers don't show
-5. Write down what failed       →  negative results belong in the repo too
-```
 
 <div align="center"><img src="divider.svg" width="100%" alt=""/></div>
 
