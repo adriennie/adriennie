@@ -37,20 +37,6 @@
 
 <div align="center"><img src="divider.svg" width="100%" alt=""/></div>
 
-## 🎖️ &nbsp;Certifications & recognition
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Azure_AI_Engineer_Associate-AI--102-7c3aed?style=for-the-badge&labelColor=0b0b16&logo=microsoftazure&logoColor=f5f3ff" alt="Azure AI Engineer Associate"/>
-<img src="https://img.shields.io/badge/AWS-LLMs_on_Amazon_Bedrock-0891b2?style=for-the-badge&labelColor=0b0b16&logo=amazonaws&logoColor=f5f3ff" alt="AWS Bedrock"/>
-<img src="https://img.shields.io/badge/HKUST-Python_%26_Statistics-059669?style=for-the-badge&labelColor=0b0b16" alt="HKUST Python & Statistics"/>
-
-<img src="https://img.shields.io/badge/Code4Bharat-National_Semifinalist-db2777?style=for-the-badge&labelColor=0b0b16" alt="Code4Bharat national semifinalist"/>
-<img src="https://img.shields.io/badge/Care--a--Thon-Finalist_%2B_Innovation_Grant-4f46e5?style=for-the-badge&labelColor=0b0b16" alt="Care-a-Thon finalist"/>
-<img src="https://img.shields.io/badge/TCS_CodeVita_2025-Round_2-9333ea?style=for-the-badge&labelColor=0b0b16" alt="TCS CodeVita 2025 Round 2"/>
-
-</div>
-
 <div align="center"><img src="divider.svg" width="100%" alt=""/></div>
 
 ## 📈 &nbsp;Activity
